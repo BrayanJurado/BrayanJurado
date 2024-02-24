@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RzNDBnOXU1dG9tODNoejJqenFzbnVnZmptdjBrM3k1c2kwcHpwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RzNDBnOXU1dG9tODNoejJqenFzbnVnZmptdjBrM3k1c2kwcHpwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   <h1 align="center">Hi!, I'm Brayan Jurado👋</h1>
   <h3 align="center">A passionate about software development and problem solving through technology. With solid training in application and system development, database management, and connection networks, I am dedicated to exploring new technologies and methods to create innovative and efficient solutions.
   </h3>
